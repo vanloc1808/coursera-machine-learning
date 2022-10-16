@@ -1,7 +1,7 @@
 # Coursera - Machine Learning Specialization
 This repository stores my works on [Machine Learning Specialization]https://www.coursera.org/specializations/machine-learning-introduction), provided by [Coursera](https://www.coursera.org/).
 # Courses
-There are 10 courses in this certificate, each corresponds to a specific topic. My works of each course are stored in a separate folder.
+There are 3 courses in this certificate, each corresponds to a specific topic. My works of each course are stored in a separate folder.
 <ul>
 <li><a href="https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction">Supervised Machine Learning: Regression and Classification</a></li>
 <li><a href="https://www.coursera.org/learn/advanced-learning-algorithms?specialization=machine-learning-introduction">Advanced Learning Algorithms</a></li>
