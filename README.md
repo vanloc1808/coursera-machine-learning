@@ -1,5 +1,5 @@
 # Coursera - Machine Learning Specialization
-This repository stores my works on ![Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction), provided by [Coursera](https://www.coursera.org/).
+This repository stores my works on [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction), provided by [Coursera](https://www.coursera.org/).
 # Courses
 There are 3 courses in this certificate, each corresponds to a specific topic. My works of each course are stored in a separate folder.
 <ul>
